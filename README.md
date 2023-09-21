@@ -1,4 +1,4 @@
-![image](https://github.com/allieyamaguchi/Website/assets/145708629/dc850b24-86bc-438b-967a-141505ee6e5e)<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title> P.A.W.S.  (Protect Animals With Support) </title>
