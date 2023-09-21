@@ -20,5 +20,6 @@
   <p><strong>Email:</strong>pawsclub@gmail.com</p>
   <p><strong>Instagram:</strong>@whs_paws</p>
   <h4>Link to Join</h4>
-<p><strong>CLICK HERE:</strong> <p>Google Form<a href="https://www.google.com/url?q=https://forms.gle/s5i9HZhFqo24qMur5&sa=D&source=editors&ust=1693340841582555&usg=AOvVaw0NswvS1Ret7QZPZVaq0M5N"</p>
+<p><strong>CLICK HERE:</strong></p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeMzhVGbjStNbcbLB6nSVbWhqyLUy5-Tnt6ZBLi3vb4rj1EDg/viewform"</p>
 </html>
