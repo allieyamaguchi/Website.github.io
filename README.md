@@ -21,5 +21,5 @@
   <p><strong>Instagram:</strong>@whs_paws</p>
   <h4>Link to Join</h4>
 <h5><strong>CLICK HERE:</strong></h5>
-  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeMzhVGbjStNbcbLB6nSVbWhqyLUy5-Tnt6ZBLi3vb4rj1EDg/viewform"</p>
+  <h5><a href="https://docs.google.com/forms/d/e/1FAIpQLSeMzhVGbjStNbcbLB6nSVbWhqyLUy5-Tnt6ZBLi3vb4rj1EDg/viewform"></h5>
 </html>
