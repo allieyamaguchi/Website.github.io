@@ -16,7 +16,7 @@
     <li>Guest Speakers</li>
     <p>We plan to have speakers who have experience with animals, like veternarians or animal shelter workers, to come visit our school and educate members. This is a fun learning opportunity for those interested in animals or even for those who want to head on a career path regarding animals.</p>
   </ol>
-<img src="file:///var/folders/lx/bsp0pwxn5_gb1vyjg5n1pll00000gn/T/TemporaryItems/NSIRD_screencaptureui_wC3Fxd/Screenshot%202023-09-21%20at%202.23.30%20PM.png">
+<h5><img src="file:///var/folders/lx/bsp0pwxn5_gb1vyjg5n1pll00000gn/T/TemporaryItems/NSIRD_screencaptureui_wC3Fxd/Screenshot%202023-09-21%20at%202.23.30%20PM.png"></h5>
 <h5>Contact Information</h5>
   <p><strong>Email:</strong>pawsclub@gmail.com</p>
   <p><strong>Instagram:</strong>@whs_paws</p>
