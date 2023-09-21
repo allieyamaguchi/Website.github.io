@@ -9,9 +9,16 @@
   <ol>
     <li>Animal Shelter Volunteering</li>
     <p>Volunteers will be able to gain hands-on experience by working with animals at shelters. These animals include dogs, rabbits, cats, etc. Volunteer hours are available.</p>
+    <li>Making and Donating Pet Toys</li>
+    <p>Volunteers have the opportunity to help make pet toys for dogs and cats. This is a fun activity members can participate in for volunteer hours.</p>
     <li>Zoo Field Trips</li>
     <p>Volunteers will be able to participate in field trips to local places like the zoo. This provides an opportunity to see different animals in their natural environment, or for those who want to visit for fun!</p>
     <li>Guest Speakers</li>
     <p>We plan to have speakers who have experience with animals, like veternarians or animal shelter workers, to come visit our school and educate members. This is a fun learning opportunity for those interested in animals or even for those who want to head on a career path regarding animals.</p>
   </ol>
+<h5>Contact Information</h5>
+  <p><strong>Email:</strong>pawsclub@gmail.com</p>
+  <p><strong>Instagram:</strong>@whs_paws</p>
+  <h4>Link to Join</h4>
+<p><strong>CLICK HERE:</strong><a href="https://www.google.com/url?q=https://forms.gle/s5i9HZhFqo24qMur5&sa=D&source=editors&ust=1693340841582555&usg=AOvVaw0NswvS1Ret7QZPZVaq0M5N"</p>
 </html>
