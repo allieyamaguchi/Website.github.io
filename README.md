@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![image](https://github.com/allieyamaguchi/Website/assets/145708629/dc850b24-86bc-438b-967a-141505ee6e5e)<!DOCTYPE html>
 <html>
   <head>
     <title> P.A.W.S.  (Protect Animals With Support) </title>
@@ -9,7 +9,6 @@
   <ol>
     <li>Animal Shelter Volunteering</li>
     <p>Volunteers will be able to gain hands-on experience by working with animals at shelters. These animals include dogs, rabbits, cats, etc. Volunteer hours are available.</p>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ccspca.com%2Fblog-spca%2Fbenefits-animal-shelter-volunteer%2Fattachment%2Fvolunteer-at-animal-shelter%2F&psig=AOvVaw2-TTVbBV5-ARwhX-LzyM4r&ust=1695417673371000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMi7sJPRvIEDFQAAAAAdAAAAABAE" align="left">
     <li>Making and Donating Pet Toys</li>
     <p>Volunteers have the opportunity to help make pet toys for dogs and cats. This is a fun activity members can participate in for volunteer hours.</p>
     <li>Zoo Field Trips</li>
@@ -17,6 +16,7 @@
     <li>Guest Speakers</li>
     <p>We plan to have speakers who have experience with animals, like veternarians or animal shelter workers, to come visit our school and educate members. This is a fun learning opportunity for those interested in animals or even for those who want to head on a career path regarding animals.</p>
   </ol>
+<img src="file:///var/folders/lx/bsp0pwxn5_gb1vyjg5n1pll00000gn/T/TemporaryItems/NSIRD_screencaptureui_wC3Fxd/Screenshot%202023-09-21%20at%202.23.30%20PM.png">
 <h5>Contact Information</h5>
   <p><strong>Email:</strong>pawsclub@gmail.com</p>
   <p><strong>Instagram:</strong>@whs_paws</p>
