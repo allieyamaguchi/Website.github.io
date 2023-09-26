@@ -12,6 +12,7 @@
     <img src="https://www.ccspca.com/wp-content/uploads/2015/11/volunteer-at-animal-shelter.jpg">
     <li>Making and Donating Pet Toys</li>
     <p>Volunteers have the opportunity to help make pet toys for dogs and cats. This is a fun activity members can participate in for volunteer hours.</p>
+    <img src="https://d1wn0q81ehzw6k.cloudfront.net/additional/thul/media/2e24a48a7dd9eeff?w=890&h=590&crop=1">
     <li>Zoo Field Trips</li>
     <p>Volunteers will be able to participate in field trips to local places like the zoo. This provides an opportunity to see different animals in their natural environment, or for those who want to visit for fun!</p>
     <li>Guest Speakers</li>
