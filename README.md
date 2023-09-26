@@ -3,7 +3,7 @@
   <head>
     <h1> P.A.W.S.  (Protect Animals With Support) </h1>
     <style>
-      body {background: 698b69}
+      body {background: #698b69;}
     </style>
   </head>
   <h2>What is Our Mission?</h2>
