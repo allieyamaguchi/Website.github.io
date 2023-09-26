@@ -9,7 +9,7 @@
   <ol>
     <li>Animal Shelter Volunteering</li>
     <p>Volunteers will be able to gain hands-on experience by working with animals at shelters. These animals include dogs, rabbits, cats, etc. Volunteer hours are available.</p>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ccspca.com%2Fblog-spca%2Fbenefits-animal-shelter-volunteer%2Fattachment%2Fvolunteer-at-animal-shelter%2F&psig=AOvVaw1AkfEqo8mfPRdoxuLmSf3H&ust=1695791898653000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjV_J_Dx4EDFQAAAAAdAAAAABAE">
+    <img src="file:///var/folders/lx/bsp0pwxn5_gb1vyjg5n1pll00000gn/T/TemporaryItems/NSIRD_screencaptureui_qcIw1y/Screenshot%202023-09-25%20at%2010.19.07%20PM.png">
     <li>Making and Donating Pet Toys</li>
     <p>Volunteers have the opportunity to help make pet toys for dogs and cats. This is a fun activity members can participate in for volunteer hours.</p>
     <li>Zoo Field Trips</li>
