@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <h1> P.A.W.S.  (Protect Animals With Support) </h1>
