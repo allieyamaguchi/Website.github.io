@@ -9,7 +9,7 @@
   <ol>
     <li><strong>Animal Shelter Volunteering</strong></li>
     <p>Volunteers will be able to gain hands-on experience by working with animals at shelters. These animals include dogs, rabbits, cats, etc. Volunteer hours are available.</p>
-    <img src="https://plus.unsplash.com/premium_photo-1663127644755-edefeedc2d49?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" width="600" height="600">
+    <img src="https://images.squarespace-cdn.com/content/v1/63f397b2131cec38e6b0ad60/dc59dcbf-f316-459e-a3ae-5b17e47b56e2/cerritos+beach+dogs-19.jpg" width="800" height="600">
     <li><strong>Making and Donating Pet Toys</strong></li>
     <p>Volunteers have the opportunity to help make pet toys for dogs and cats. This is a fun activity members can participate in for volunteer hours.</p>
     <img src="https://images.pexels.com/photos/16423126/pexels-photo-16423126/free-photo-of-dog-running-with-toy-string.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="600" height="800">
