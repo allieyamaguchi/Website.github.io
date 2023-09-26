@@ -2,6 +2,9 @@
 <html>
   <head>
     <h1> P.A.W.S.  (Protect Animals With Support) </h1>
+    <style>
+      body {background: 698b69}
+    </style>
   </head>
   <h2>What is Our Mission?</h2>
   <h5>The goal of our club is to develop a strong community through pet care and advocate for the welfare of domestic and wild animals. We are dedicated to promoting responsible pet ownership, fostering compassionate relationships between all animals and humans, and raising awareness about the mis-treatment of wildlife and the importance of preserving their habitats. Through education, outreach, and hands-on initiatives, P.A.W.S. Club strives to create a community where every pet is loved and cared for, and every animal treated with respect.</h5>
