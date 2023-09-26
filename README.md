@@ -18,7 +18,7 @@
     <img src="https://images.unsplash.com/photo-1534567153574-2b12153a87f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" width="800" height="600">
     <li>Guest Speakers</li>
     <p>We plan to have speakers who have experience with animals, like veternarians or animal shelter workers, to come visit our school and educate members. This is a fun learning opportunity for those interested in animals or even for those who want to head on a career path regarding animals.</p>
-    <img src="https://www.aeseducation.com/hubfs/Blog%20Media/Imported_Blog_Media/shutterstock_206744158-1-1.jpg" width="800" height="600">
+    <img src="https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80" width="800" height="600">
   </ol>
 <h5>Contact Information</h5>
   <p><strong>Email:</strong>pawsclub@gmail.com</p>
